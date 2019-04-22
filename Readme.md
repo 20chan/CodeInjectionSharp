@@ -2,6 +2,8 @@
 
 Inject machine code at machine code by hooking JIT at runtime
 
+Moved to [phillyai/CoreCLRCustomJIT](https://github.com/phillyai/CoreCLRCustomJIT)
+
 ```csharp
 static void Main(string[] args)
 {
